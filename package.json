@@ -1,5 +1,5 @@
 {
-  "name": "v1_chat_app",
+  "name": "@simarsm/dirmg",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -10,8 +10,13 @@
   "bin": {
     "dirmg": "./dist/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cli",
+    "npmtool"
+  ],
+  "author": "Simarjeet Singh Mehra",
+  "repository": {"https://github.com/ssmehra7/cli-dir-manager"},
+  "homepage": "https://google.com",
   "license": "ISC",
   "dependencies": {
     "-": "^0.0.1",
